@@ -55,3 +55,6 @@ with open('/Volumes/ramdisk/model.json', 'w') as fp:
     json.dump(content, fp)
 
 ```
+
+### 最後に
+[Chainer のチュートリアルを読んで](http://docs.chainer.org/en/latest/tutorial/basic.html)
